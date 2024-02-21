@@ -2,7 +2,6 @@ import pygame
 import sys
 import random
 
-
 class Paddle:
     def __init__(self, screen, color, width, height):
         self.screen = screen
